@@ -10,7 +10,7 @@
     "serve:standalone": "vue-cli-service serve --mode standalone"
   },
   "dependencies": {
-    "core-js": "^3.6.5",
+    "core-js": "^3.18.2",
     "single-spa-vue": "^2.1.0",
     "vue": "^2.6.11",
     "vue-router": "^3.2.0",
@@ -25,12 +25,15 @@
     "@vue/cli-service": "~4.5.0",
     "@vue/eslint-config-prettier": "^6.0.0",
     "@vue/test-utils": "^1.0.3",
+    "autoprefixer": "^10.3.7",
     "babel-eslint": "^10.1.0",
     "eslint": "^6.7.2",
     "eslint-plugin-prettier": "^3.3.1",
     "eslint-plugin-vue": "^6.2.2",
-    "lint-staged": "^9.5.0",
+    "lint-staged": "^11.2.0",
+    "postcss": "^8.3.9",
     "prettier": "^2.2.1",
+    "tailwindcss": "^2.2.16",
     "vue-cli-plugin-single-spa": "~3.1.2",
     "vue-template-compiler": "^2.6.11"
   },
